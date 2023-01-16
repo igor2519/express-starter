@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "paths": {
+      "@constants": ["constants"],
+      "@controllers": ["controllers"],
+      "@types": ["types"],
+      "@dto-creators": ["dto-creators"],
+      "@middlewares": ["middlewares"],
+      "@models": ["models"],
+      "@repositories": ["repositories"],
+      "@routes": ["routes"],
+      "@services": ["services"],
+      "@utils": ["utils"],
+      "@validation": ["validation"],
+      "@database": ["database"],
+      "@errors": ["errors"]
+    }
+  }
+}
